@@ -8,3 +8,5 @@ When talking to people, many often ask me what is operational research ? Abstrac
 > 3. Tables take up four times as much storage space as chairs and there is room for at most four tables each week.
 
 This problem a linear programming problem and to solve it we need to formulate it as mathematical equations. Similar to any mathematical problems, we first need to identify the objective of the problem, then we formulate the constraint and finally solve it. 
+
+You can view the solutions and my explaination by either click on the "Operational_Research_example" file to view the solution or alternatively click on [this link](https://github.com/CongThNguyen/Operational-Research/blob/main/Operational_research_example.ipynb).
